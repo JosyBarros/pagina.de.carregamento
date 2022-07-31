@@ -3,6 +3,7 @@ const imagem = document.querySelector(".imagem");
 
 let inicioCarregamento = 0;
 
+
 let int = setInterval(desfoque, 30)
 
 function desfoque() {
